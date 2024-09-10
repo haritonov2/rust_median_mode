@@ -48,7 +48,6 @@ for (key, value) in &mode {
 // Number 4 appears 3 times
 // Number 2 appears 2 times
 // Number 1 appears 1 time
-// Number 3 appears 1 time
 
 ```
 
